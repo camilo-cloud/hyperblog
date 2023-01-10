@@ -6,3 +6,6 @@ nueva línea
 Soy una persona alta
 
 un cambio mas
+
+Para salir del editor ctrl + o, ENTER , ctrl + x
+
